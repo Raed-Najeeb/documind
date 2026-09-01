@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is the overall structure of the AI Engineer Roadmap?",
+        "expected_answer": "The roadmap has 26 sections organized into a project-based, mastery-gated study plan."
+    },
+    {
+        "question": "What is Section 26 about?",
+        "expected_answer": "Section 26 ties the roadmap back to CAREERMATE and the Pangram-style detector build."
+    },
+    {
+        "question": "What is the core rule of the study plan?",
+        "expected_answer": "Move on only when you can build the thing, not just explain it. No time-boxing."
+    },
+    {
+        "question": "What is the capital of France?",
+        "expected_answer": "I don't have enough information in the provided documents to answer that."
+    },
+    {
+        "question": "Who is this roadmap personalized for?",
+        "expected_answer": "The roadmap is personalized for Raed."
+    }
+]

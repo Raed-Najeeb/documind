@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What is the overall structure of the AI Engineer Roadmap?",
+    "expected": "The roadmap has 26 sections organized into a project-based, mastery-gated study plan.",
+    "answer": "The AI Engineer Roadmap is organized as **26 sequential, mastery\u2011gated blocks** that cover every core skill needed for an AI/ML engineering career.  \nEach block lists the specific topics to learn and the exact free resources (GitHub repos, official docs, course repositories, etc.) to use. The roadmap proceeds step\u2011by\u2011step rather than by calendar dates, and the sections are arranged in a logical progression\u2014from foundational tools to advanced model\u2011centric techniques.\n\nThe Table of Contents shows the first 16 blocks, which include:\n\n1. Python Foundation  \n2. Git, GitHub and Linux  \n3. API and Backend Fundamentals  \n4. How LLMs Actually Work  \n5. Prompt Engineering  \n6. Structured Outputs and Tool Calling  \n7. Embeddings and Vector Search  \n8\u20119. Retrieval\u2011Augmented Generation (Basic and Advanced)  \n10. AI Agents  \n11. Model Context Protocol  \n12. Orchestration Frameworks  \n13. Evaluation  \n14. Observability  \n15. Cost and Latency Optimization  \n16. \u2026 (continues through the remaining sections up to 26)  \n\nThus, the roadmap\u2019s overall structure is a **26\u2011section, project\u2011based, mastery\u2011gated sequence** that guides learners from basic programming and tooling through increasingly sophisticated AI concepts and production\u2011ready practices\u3010Source 1\u2020L1-L4\u3011\u3010Source 2\u2020L1-L4\u3011\u3010Source 3\u2020L1-L8\u3011.",
+    "faithfulness": 5,
+    "relevance": 5
+  },
+  {
+    "question": "What is Section 26 about?",
+    "expected": "Section 26 ties the roadmap back to CAREERMATE and the Pangram-style detector build.",
+    "answer": "Section\u202f26 of the AI\u2011Engineer roadmap is dedicated to **Portfolio Projects**. It outlines the concrete deliverables you should have in a portfolio for AI\u2011engineering roles \u2013 specifically, at minimum a deployed Retrieval\u2011Augmented Generation (RAG) system, a deployed agentic system, and a deployed, evaluated/fine\u2011tuned model. The section also ties these projects back to your personal targets: the \u201cCAREERMATE\u201d project can serve as the agents\u202f+\u202fRAG\u202f+\u202forchestration piece, while your text\u2011detector (pangram\u2011style) project fulfills the evaluated\u2011ML\u2011model requirement, each to be shipped with a README describing the problem and solution\u3010Source\u202f2\u3011. Additionally, the roadmap notes that Section\u202f26 links directly to your actual targets\u2014CAREERMATE and the pangram\u2011style detector build\u3010Source\u202f1\u3011.",
+    "faithfulness": 5,
+    "relevance": 5
+  },
+  {
+    "question": "What is the core rule of the study plan?",
+    "expected": "Move on only when you can build the thing, not just explain it. No time-boxing.",
+    "answer": "The study plan is **mastery\u2011gated** \u2013 you don\u2019t advance on a calendar or time box; you only move on when you can **re\u2011build the core idea or project from scratch without the tutorial open**, i.e., you must be able to actually build the thing, not just explain it.\u202f[Source\u202f1]\u202f[Source\u202f2]",
+    "faithfulness": 5,
+    "relevance": 5
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected": "I don't have enough information in the provided documents to answer that.",
+    "answer": "I don't have enough information in the provided documents to answer that.",
+    "faithfulness": 5,
+    "relevance": 1
+  },
+  {
+    "question": "Who is this roadmap personalized for?",
+    "expected": "The roadmap is personalized for Raed.",
+    "answer": "The roadmap is personalized for **Raed**\u3010Source\u202f1\u3011.",
+    "faithfulness": 5,
+    "relevance": 5
+  }
+]
